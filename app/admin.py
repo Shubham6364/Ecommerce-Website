@@ -3,3 +3,7 @@ from .models import *
 # Register your models here.
 
 admin.site.register(Slider)
+admin.site.register(Baner_area)
+admin.site.register(Main_Category)
+admin.site.register(Category)
+admin.site.register(Sub_Category)
